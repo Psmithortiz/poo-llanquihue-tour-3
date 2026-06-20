@@ -1,0 +1,6 @@
+Camila Soto;Espanol;34
+Hans Muller;Aleman;52
+Javiera Paredes;Ingles;28
+Tomas Vera;Espanol;41
+Ingrid Bauer;Aleman;47
+Sofia Mancilla;Ingles;31
