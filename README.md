@@ -25,7 +25,7 @@ El diseño aplica los siguientes conceptos:
 
 ## Estructura del proyecto
 
-\`\`\`
+```
 src/
 ├── model/   # Clases de dominio: Tour, Direccion, Guia
 ├── data/    # Carga de datos: GestorDatos (lee los .txt y arma las listas)
@@ -33,23 +33,23 @@ src/
 resources/
 ├── tours.txt   # Datos de tours (formato: nombre;calle;numeroCalle;comuna;region;precio)
 └── guias.txt   # Datos de guias (formato: nombre;idioma;edad)
-\`\`\`
+```
 
 ## Instrucciones para clonar y ejecutar
 
 1. Clona el repositorio desde GitHub:
 
-\`\`\`
+```
 git clone https://github.com/Psmithortiz/poo-llanquihue-tour-3.git
-\`\`\`
+```
 
 2. Abre el proyecto en **IntelliJ IDEA**.
-3. Asegúrate de que la carpeta \`resources/\` con \`tours.txt\` y \`guias.txt\` esté presente en la raíz del proyecto.
-4. Ejecuta el archivo \`Main.java\` ubicado en el paquete \`ui\`.
+3. Asegúrate de que la carpeta `resources/` con `tours.txt` y `guias.txt` esté presente en la raíz del proyecto.
+4. Ejecuta el archivo `Main.java` ubicado en el paquete `ui`.
 5. Revisa la salida por consola: catálogo completo de tours, tours económicos, guías disponibles y guías filtrados por idioma.
 
 ---
 
-**Repositorio GitHub:** https://github.com/Psmithortiz/poo-llanquihue-tour-3 · **Fecha de entrega:** [DD/MM/2026]
+**Repositorio GitHub:** https://github.com/Psmithortiz/poo-llanquihue-tour-3 · **Fecha de entrega:** 22/06/2026
 
 © Duoc UC | Escuela de Informática y Telecomunicaciones
